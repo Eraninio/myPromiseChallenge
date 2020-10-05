@@ -1,0 +1,3 @@
+## Should have "then" method which returns a Declare'
+* recursion is not only for functions...
+* it doesn't have to return a promise for everything to work, but it can help.
